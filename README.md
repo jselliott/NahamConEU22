@@ -8,6 +8,8 @@ This repo is a collection of files and writeups for the NahamCon EU 2022 CTF com
 
 ## Challenges
 
+Challenges marked with :white_check_mark: have a writeup available.
+
 ### Warmups
 
 * [Arjeebee](challenges/Warmups/arjeebee/) <em>(easy)</em>
@@ -27,7 +29,7 @@ This repo is a collection of files and writeups for the NahamCon EU 2022 CTF com
 ### Cryptography
 
 * [dont_hack_my_d](challenges/Cryptography/donthackmyd/) <em>(easy)</em>
-* [Shapeshifter](challenges/Cryptography/shapeshifter/) <em>(easy)</em>
+* [Shapeshifter](challenges/Cryptography/shapeshifter/) <em>(easy)</em> :white_check_mark:
 * [rektcursion](challenges/Cryptography/rektcursion/) <em>(hard)</em>
 ### Web
 
