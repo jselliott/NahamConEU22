@@ -20,10 +20,10 @@ This repo is a collection of files and writeups for the NahamCon EU 2022 CTF com
 * [Technical Support](challenges/Warmups/technical-support/) <em>(easy)</em>
 ### Reverse Engineering
 
-* [padlock](challenges/Reverse Engineering/padlock/) <em>(easy)</em>
-* [rick](challenges/Reverse Engineering/rick/) <em>(easy)</em>
-* [Go Jargon Go](challenges/Reverse Engineering/go-jargon-go/) <em>(hard)</em>
-* [Vasily's Pride](challenges/Reverse Engineering/vasilys-pride/) <em>(hard)</em>
+* [padlock](challenges/ReverseEngineering/padlock/) <em>(easy)</em>
+* [rick](challenges/ReverseEngineering/rick/) <em>(easy)</em>
+* [Go Jargon Go](challenges/ReverseEngineering/go-jargon-go/) <em>(hard)</em>
+* [Vasily's Pride](challenges/ReverseEngineering/vasilys-pride/) <em>(hard)</em>
 ### Cryptography
 
 * [dont_hack_my_d](challenges/Cryptography/donthackmyd/) <em>(easy)</em>
@@ -52,13 +52,13 @@ This repo is a collection of files and writeups for the NahamCon EU 2022 CTF com
 * [IP Man](challenges/Networking/ip-man/) <em>(easy)</em>
 ### Binary Exploitation
 
-* [Hexploit](challenges/Binary Exploitation/hexploit/) <em>(easy)</em>
-* [The Imagicator Redux](challenges/Binary Exploitation/the-imagicator-redux/) <em>(medium)</em>
-* [The Imagicator](challenges/Binary Exploitation/the-imagicator/) <em>(medium)</em>
-* [The Imagicator - Family Friendly](challenges/Binary Exploitation/the-imagicator-family-friendly/) <em>(hard)</em>
-* [Limited Resources](challenges/Binary Exploitation/limited-resources/) <em>(hard)</em>
-* [Wacky Service](challenges/Binary Exploitation/wacky-service/) <em>(easy)</em>
-* [The Imagicator - Almost Family Friendly](challenges/Binary Exploitation/the-imagicator-almost-family-friendly/) <em>(hard)</em>
+* [Hexploit](challenges/BinaryExploitation/hexploit/) <em>(easy)</em>
+* [The Imagicator Redux](challenges/BinaryExploitation/the-imagicator-redux/) <em>(medium)</em>
+* [The Imagicator](challenges/BinaryExploitation/the-imagicator/) <em>(medium)</em>
+* [The Imagicator - Family Friendly](challenges/BinaryExploitation/the-imagicator-family-friendly/) <em>(hard)</em>
+* [Limited Resources](challenges/BinaryExploitation/limited-resources/) <em>(hard)</em>
+* [Wacky Service](challenges/BinaryExploitation/wacky-service/) <em>(easy)</em>
+* [The Imagicator - Almost Family Friendly](challenges/BinaryExploitation/the-imagicator-almost-family-friendly/) <em>(hard)</em>
 ### Mobile
 
 * [Got Any Games?](challenges/Mobile/got-any-games/) <em>(hard)</em>
