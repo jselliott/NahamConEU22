@@ -1,5 +1,3 @@
-from Crypto.Util.number import bytes_to_long as b2l
-
 def shift(x,n):
     for i in range(n):
         x = x[1:] + [x[0] ^ x[11] ^ x[13] ^ x[14]]
