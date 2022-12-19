@@ -24,7 +24,7 @@ Challenges marked with :white_check_mark: have a writeup available.
 
 * [padlock](challenges/ReverseEngineering/padlock/) <em>(easy)</em>
 * [rick](challenges/ReverseEngineering/rick/) <em>(easy)</em>
-* [Go Jargon Go](challenges/ReverseEngineering/go-jargon-go/) <em>(hard)</em>
+* [Go Jargon Go](challenges/ReverseEngineering/go-jargon-go/) <em>(hard)</em>  :white_check_mark:
 * [Vasily's Pride](challenges/ReverseEngineering/vasilys-pride/) <em>(hard)</em>
 ### Cryptography
 
