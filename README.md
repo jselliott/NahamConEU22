@@ -84,4 +84,4 @@ Challenges marked with :white_check_mark: have a writeup available.
 * [Project Circuit Breaker](challenges/Hardware/RF/project-circuit-breaker/) <em>(medium)</em>
 ### Cloud
 
-* [Mode Incognito](challenges/Cloud/mode-incognito/) <em>(hard)</em>
+* [Mode Incognito](challenges/Cloud/mode-incognito/) <em>(hard)</em> :white_check_mark:
