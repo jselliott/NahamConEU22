@@ -1,4 +1,4 @@
-# NahamConEU22
+# NahamCon EU 2022 :: Capture The Flag
 
 ## About
 
