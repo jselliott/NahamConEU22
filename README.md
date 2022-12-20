@@ -12,14 +12,14 @@ Challenges marked with :white_check_mark: have a writeup available.
 
 ### Warmups
 
-* [Arjeebee](challenges/Warmups/arjeebee/) <em>(easy)</em>
-* [Banjo](challenges/Warmups/banjo/) <em>(easy)</em>
-* [catscii](challenges/Warmups/catscii/) <em>(easy)</em>
-* [Hashstation](challenges/Warmups/hashstation/) <em>(easy)</em>
-* [Read The Rules](challenges/Warmups/read-the-rules/) <em>(easy)</em>
-* [Way 2 Basic](challenges/Warmups/way-2-basic/) <em>(easy)</em>
-* [Baby's First Heartbleed](challenges/Warmups/babys-first-heartbleed/) <em>(easy)</em>
-* [Technical Support](challenges/Warmups/technical-support/) <em>(easy)</em>
+* [Arjeebee](challenges/Warmups/arjeebee/) <em>(easy)</em> :white_check_mark
+* [Banjo](challenges/Warmups/banjo/) <em>(easy)</em> :white_check_mark
+* [catscii](challenges/Warmups/catscii/) <em>(easy)</em> :white_check_mark
+* [Hashstation](challenges/Warmups/hashstation/) <em>(easy)</em> :white_check_mark
+* [Read The Rules](challenges/Warmups/read-the-rules/) <em>(easy)</em> :white_check_mark
+* [Way 2 Basic](challenges/Warmups/way-2-basic/) <em>(easy)</em> :white_check_mark
+* [Baby's First Heartbleed](challenges/Warmups/babys-first-heartbleed/) <em>(easy)</em> :white_check_mark
+* [Technical Support](challenges/Warmups/technical-support/) <em>(easy)</em> :white_check_mark
 ### Reverse Engineering
 
 * [padlock](challenges/ReverseEngineering/padlock/) <em>(easy)</em>
