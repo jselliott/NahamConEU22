@@ -9,3 +9,21 @@
 
 * [catscii](files/catscii)
 
+## Solution
+
+The flag can be found by opening or using ```cat``` to read the provided file.
+
+
+```
+    ,_     _
+    |\\_,-~/
+    / _  _ |    ,--.
+   (  @  @ )   / ,-'
+    \  _T_/-._( (      Your `cat` found a flag! 
+    /         `. \     This is what the standard flag format looks like...
+   |         _  \ |    Submit these on the scoreboard for points!
+    \ \ ,  /      |
+     || |-_\__   /
+    ((_/`(____,-'      flag{258da40ab06be7c99099d603a3b3ccb1}
+
+```
